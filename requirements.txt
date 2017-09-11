@@ -21,12 +21,12 @@ jupyter
 matplotlib
 Pillow
 scikit-learn
-
+request
 ################################################################
 # TensorFlow can be installed either as CPU or GPU versions.
 # You select which one to install by (un)commenting these lines.
 
-tensorflow		# CPU Version of TensorFlow.
+# tensorflow		# CPU Version of TensorFlow.
 # tensorflow-gpu	# GPU version of TensorFlow.
 
 # Builder API for TensorFlow used in many of the tutorials.
